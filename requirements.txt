@@ -5,9 +5,10 @@ yapf==0.30
 matplotlib==3.3.4
 numpy==1.20.2
 pandas==1.2.4
-scikit-learn==0.24.1
+scikit-learn==1.1.0
 scipy==1.9.1
 seaborn==0.11.1
 torch==1.10.0
 python-dotenv==0.21.0
+imbalanced-learn==0.9.1
 neptune-client
